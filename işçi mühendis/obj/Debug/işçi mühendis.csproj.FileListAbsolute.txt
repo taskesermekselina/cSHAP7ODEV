@@ -1,0 +1,20 @@
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\bin\Debug\işçi mühendis.exe.config
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\bin\Debug\işçi mühendis.exe
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\bin\Debug\işçi mühendis.pdb
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\obj\Debug\işçi mühendis.csproj.AssemblyReference.cache
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\obj\Debug\işçi_mühendis.Form1.resources
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\obj\Debug\işçi_mühendis.Properties.Resources.resources
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\obj\Debug\işçi mühendis.csproj.GenerateResource.cache
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\obj\Debug\işçi mühendis.csproj.CoreCompileInputs.cache
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\obj\Debug\işçi mühendis.exe
+C:\Users\Mekselina T\source\repos\proje deneme\işçi mühendis\işçi mühendis\işçi mühendis\obj\Debug\işçi mühendis.pdb
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\bin\Debug\işçi mühendis.exe.config
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\bin\Debug\işçi mühendis.exe
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\bin\Debug\işçi mühendis.pdb
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\obj\Debug\işçi mühendis.csproj.AssemblyReference.cache
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\obj\Debug\işçi_mühendis.Form1.resources
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\obj\Debug\işçi_mühendis.Properties.Resources.resources
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\obj\Debug\işçi mühendis.csproj.GenerateResource.cache
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\obj\Debug\işçi mühendis.csproj.CoreCompileInputs.cache
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\obj\Debug\işçi mühendis.exe
+C:\Users\Mekselina T\Documents\GitHub\DenemeProje\işçi mühendis\obj\Debug\işçi mühendis.pdb
